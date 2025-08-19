@@ -1,0 +1,8 @@
+car-price-prediction/
+├─ README.md
+├─ requirements.txt
+├─ .gitignore
+├─ notebook/
+│   └─ car_price_prediction.ipynb   # your Colab notebook
+└─ docs/
+   └─ DESCRIPTION.md
