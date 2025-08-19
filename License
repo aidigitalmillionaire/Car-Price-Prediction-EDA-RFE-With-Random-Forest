@@ -1,0 +1,35 @@
+
+---
+
+# 3️⃣ docs/DESCRIPTION.md
+
+```markdown
+# Project Description — Car Price Prediction 🚗
+
+This project demonstrates an end-to-end machine learning pipeline for predicting car prices.  
+It combines **Exploratory Data Analysis (EDA)**, **feature selection (RFE)**, and **Random Forest Regression** to build a robust prediction model.
+
+## Workflow
+1. **Data Understanding & Cleaning**  
+   - Handle missing values, outliers, and categorical encoding.  
+
+2. **Exploratory Data Analysis (EDA)**  
+   - Visualize relationships between car attributes and prices.  
+   - Identify patterns, correlations, and skewness.  
+
+3. **Feature Selection (RFE)**  
+   - Use Recursive Feature Elimination to select the most important predictors.  
+
+4. **Modeling**  
+   - Train a **Random Forest Regressor** on selected features.  
+   - Perform hyperparameter tuning.  
+
+5. **Evaluation**  
+   - Metrics: R², MAE, MSE, RMSE  
+   - Compare predicted vs actual car prices.  
+
+## Applications
+- Used car market price estimation  
+- Dealership analytics  
+- Price recommendation engines  
+- Business decision-making for auto resale platforms
